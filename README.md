@@ -8,10 +8,3 @@ This project aims to build a predictive model to identify key risk factors for c
 - **knime_workflow.knwf**: KNIME workflow used for data analysis and predictive modeling.  
   To open, use the KNIME Analytics Platform.
 
-## Datasets
-
-
-## How to Use
-1. Download the `knime_workflow.knwf` file.
-2. Open it in the [KNIME Analytics Platform](https://www.knime.com/).
-3. Load the datasets to replicate the analysis.
